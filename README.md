@@ -2,7 +2,7 @@ Generalised UDRL
 ================
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
 
-[All You Need Is Supervised Learning: From Imitation Learning to Meta-RL With Upside Down RL](https://arxiv.org/abs/2202.1196)
+[All You Need Is Supervised Learning: From Imitation Learning to Meta-RL With Upside Down RL](https://arxiv.org/abs/2202.11960)
 
 Implementation of a generalised UDRL agent. Supports online RL, imitation learning, offline RL, goal-conditioned RL, and meta-RL:
 ```sh
